@@ -1,6 +1,6 @@
 ### Introduction
 
-This lesson will explain the importance of good commit messages, how to write them, when to commit, and why having a history of good commits is so important!
+This is a totally real and needed change.
 
 ### Lesson overview
 
@@ -82,7 +82,7 @@ When writing code, it's considered best practice to commit every time you have a
 
 In other words, make a commit if you get a piece of code you are working on to function like you want it to, fix a typo, or fix a bug. As you gain experience, you will develop a better feel for what should be committed!
 
-There will come a time when you are working on a project and you FINALLY get something just right (this would be a good time to commit), and then maybe 30 seconds to a few days later it breaks. You have no idea what you changed, everything *looks* to be the same and you don’t remember editing that line, but alas, it isn’t working how you want it anymore. You’d be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what your code looked like at that point in time.
+There will come a time when you are working on a project and you FINALLY get something just right (this would be a good time to commit), and then maybe 30 seconds to a few days later it breaks. You have no idea what you changed, everything _looks_ to be the same and you don’t remember editing that line, but alas, it isn’t working how you want it anymore. You’d be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what your code looked like at that point in time.
 
 ### Assignment
 
